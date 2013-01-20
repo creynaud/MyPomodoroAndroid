@@ -1,4 +1,4 @@
 MyPomodoroAndroid
 =================
 
-Pomodoro Android app (also used to test Calabash Android for UI tests)
+Pomodoro Android app used to give a try at Calabash Android for UI tests
