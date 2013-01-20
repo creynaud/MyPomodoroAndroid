@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom|withText"
+        android:title="Settings"
+        android:titleCondensed="Settings">
+    </item>
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/abs__ic_search"
+        android:showAsAction="ifRoom|withText"
+        android:title="@android:string/search_go"
+        android:titleCondensed="Search">
+    </item>
+    <item
+        android:id="@+id/test1"
+        android:showAsAction="ifRoom|withText"
+        android:title="Test1"
+        android:titleCondensed="Test1">
+    </item>
+    <item
+        android:id="@+id/test2"
+        android:showAsAction="ifRoom|withText"
+        android:title="Test2"
+        android:titleCondensed="Test2">
+    </item>
+    <item
+        android:id="@+id/test3"
+        android:showAsAction="ifRoom|withText"
+        android:title="Test3"
+        android:titleCondensed="Test3">
+    </item>
+    <item
+        android:id="@+id/test4"
+        android:showAsAction="ifRoom|withText"
+        android:title="Test4"
+        android:titleCondensed="Test4">
+    </item>
+    <item
+        android:id="@+id/test5"
+        android:showAsAction="ifRoom|withText"
+        android:title="Test5"
+        android:titleCondensed="Test5">
+    </item>
+</menu>
